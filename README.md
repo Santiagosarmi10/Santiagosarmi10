@@ -1,11 +1,5 @@
 <div align="right">
-  <a style="text-decoration: none" target="_blank" href="https://github.com/ksantiagos">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ksantiagos.ksantiagos&left_color=gray&right_color=blue&left_text=Visitors">
-  </a>
-  <a style="text-decoration: none" target="_blank" href="https://twitter.com/tu_usuario_twitter">
-    <img width="60" src="https://img.shields.io/twitter/follow/tu_usuario_twitter?label=Follow&style=social">
-  </a>
-  <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/tu-linkedin">
+  <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/kevin-santiago-sarmiento-rincon-9b7390266/">
     <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
 </div>
@@ -22,9 +16,8 @@ I’m currently pursuing a degree in Systems Engineering, which allows me to str
 Beyond work, I’m passionate about music, design, video games, and travel. I believe in maintaining a healthy balance between work and life as the foundation for integral and creative growth.
 
 <div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ksantiagos/ksantiagos/output/github-contribution-grid-snake.svg" />
-  <br/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF6d3dnZ200eXY2b25jZWJ6bDFwZXgzOWtrcTVncWxkbnRta2RrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8NkSPltT13H2/giphy.gif" />
+  <p><i>Always chasing the next challenge, like Pac-Man after dots 🎯</i></p>
 </div>
 
 <h2>📚 | Education</h2>

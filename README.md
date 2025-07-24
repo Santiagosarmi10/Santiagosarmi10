@@ -24,41 +24,43 @@ Beyond work, I’m passionate about music, design, video games, and travel. I be
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=python,java,dotnet,go"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=html,js,ts,vue,nodejs,angular"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">DevOps:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=docker,jenkins"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Database:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=mysql,postgres,oracle"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Learning / Exploring:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=aws,gcp,angular,androidstudio"/>
-        </td>
-    </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=python,java,dotnet,go,nodejs"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">DevOps:</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=docker,jenkins"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Database:</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="vertical-align: middle; margin-left: 5px;" alt="oracle"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px;">Learning / In Progress:</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=aws,gcp,androidstudio"/>
+      <img height="40" src="https://skillicons.dev/icons?i=angular"/>
+    </td>
+  </tr>
 </table>
 

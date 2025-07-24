@@ -12,12 +12,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Kevin+Santiago+Sarmiento!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi!+👋;+I'Santiago+Sarmiento!;" />
 
 <h2>📖 | About me</h2> 
-💻 I’m a systems engineering student and data analyst with 4+ years of experience in database management, reporting, and automation. I specialize in SQL, Python, and data pipelines, combining technical skills with business insight to deliver efficient and scalable solutions.
+💻 I’m Kevin Santiago Sarmiento, a tech and data enthusiast with over 4 years of professional experience in a multinational electronics company. My focus is on understanding business processes and delivering solutions that provide real value by combining logic, efficiency, and structure.
 
-I enjoy working on projects that connect backend logic with real-world use cases, and I'm constantly learning new technologies to grow as a developer.
+I’m currently pursuing a degree in Systems Engineering, which allows me to strengthen my practical experience with solid academic foundations. I consider myself curious, self-taught, and committed to continuous learning. I enjoy facing new challenges and working in teams, always aiming to grow both personally and professionally.
+
+Beyond work, I’m passionate about music, design, video games, and travel. I believe in maintaining a healthy balance between work and life as the foundation for integral and creative growth.
 
 <div align="center">
   <br>

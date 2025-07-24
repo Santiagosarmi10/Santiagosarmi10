@@ -1,6 +1,6 @@
 <div align="right">
   <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/kevin-santiago-sarmiento-rincon-9b7390266/">
-    <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
   </a>
 </div>
 

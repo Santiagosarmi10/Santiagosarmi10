@@ -27,3 +27,44 @@ I enjoy working on projects that connect backend logic with real-world use cases
 
 <h2>📚 | Education</h2>
 <p>Currently pursuing a Bachelor's degree in Systems Engineering. I also hold a Technical degree in Database Operation and a Technology degree in System Information Devel
+
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=python,java,dotnet,go"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=html,js,ts,vue,nodejs,angular"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px;">DevOps:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=docker,jenkins"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px;">Database:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=mysql,postgres,oracle"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px;">Learning / Exploring:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=aws,gcp,angular,androidstudio"/>
+        </td>
+    </tr>
+</table>
+

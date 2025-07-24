@@ -16,8 +16,7 @@ I’m currently pursuing a degree in Systems Engineering, which allows me to str
 Beyond work, I’m passionate about music, design, video games, and travel. I believe in maintaining a healthy balance between work and life as the foundation for integral and creative growth.
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF6d3dnZ200eXY2b25jZWJ6bDFwZXgzOWtrcTVncWxkbnRta2RrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8NkSPltT13H2/giphy.gif" />
-  <p><i>Always chasing the next challenge, like Pac-Man after dots 🎯</i></p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl3eHowNjZnNWg3ZjFkcmF5ZDBkMjlrZzgwcGV1Zm0xeGUwZTM3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13eirb4In7z4is/giphy.gif" />
 </div>
 
 <h2>📚 | Education</h2>

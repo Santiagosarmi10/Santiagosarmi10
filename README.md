@@ -46,7 +46,6 @@ Beyond work, I’m passionate about music, design, video games, and travel. I be
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=mysql,postgres,oracle"/>
-            <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="vertical-align: middle; margin-left: 5px;" alt="oracle"/>
         </td>
     </tr>
     <tr>

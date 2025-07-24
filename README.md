@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi!+👋;+I'Santiago+Sarmiento!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi!+👋;+I'm+Santiago+Sarmiento!;" />
 
 <h2>📖 | About me</h2> 
 💻 I’m Kevin Santiago Sarmiento, a tech and data enthusiast with over 4 years of professional experience in a multinational electronics company. My focus is on understanding business processes and delivering solutions that provide real value by combining logic, efficiency, and structure.
